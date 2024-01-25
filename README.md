@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Mhopkinsinc
-- 🌱 I’m currently learning .NET Core Web Assembly
-- 📫 How to reach me ...
+- 🌱 I’m currently learning:
+  - .NET Core Web Assembly
+  - 65c816 Assembly
