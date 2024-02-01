@@ -1,4 +1,4 @@
 - 🌱 I’m currently learning:
-  - .NET Core Web Assembly
+  - .NET Core Blazor Web Assembly
   - 65c816 Assembly
   - 68k Assembly    
