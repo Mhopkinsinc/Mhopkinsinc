@@ -1,6 +1,6 @@
-- 🌱 I’m currently learning:  
-  - .NET Maui Blazor Hybrid
+- 🌱 I’m currently learning:    
   - .NET Blazor Web Assembly
   - .NET Cross Platform binary publishing
   - 65c816 Assembly
   - 68k Assembly
+  - WebAssembly (WASM)
